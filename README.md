@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Kyrsten Carlson!
+
+I'm curious and always learning new ways to make things better!
 
 <!--
 **kyrstencarlson/kyrstencarlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
